@@ -1,0 +1,5 @@
+google-cloud-vision
+streamlit
+langchain
+pandas
+pathlib
