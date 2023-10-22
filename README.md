@@ -1,4 +1,4 @@
-# TravelDosth App
+# TravelBuddy App
 
 Welcome to **TravelDosth App** - Your revolutionary travel companion that harnesses the power of Generative AI to make your journeys unforgettable.
 
