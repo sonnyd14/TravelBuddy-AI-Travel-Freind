@@ -1,6 +1,6 @@
 # TravelBuddy App
 
-Welcome to **TravelDosth App** - Your revolutionary travel companion that harnesses the power of Generative AI to make your journeys unforgettable.
+Welcome to **TravelBuddy App** - Your revolutionary travel companion that harnesses the power of Generative AI to make your journeys unforgettable.
 
 ## Features:
 - **Image Recognition:** Seamless identification of places through images using the precision of **Google Cloud Vision API**.
